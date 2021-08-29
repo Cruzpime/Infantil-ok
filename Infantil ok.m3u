@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="BABY FIRST*" tvg-logo="https://i.ibb.co/Rh2DS6g/babyfirst.png" group-title="INFANTIL",BABY FIRST*
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/42429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRTS " tvg-logo="https://i.ibb.co/Rh2DS6g/babyfirst.png" group-title="INFANTIL",BABY FIRTS 
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/5419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV (ʜᴅ)" tvg-logo="https://i.ibb.co/878DrKj/babytv.png" group-title="INFANTIL",BABY TV (ʜᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/TmYhmSz/cartoon-network.png" group-title="INFANTIL",CARTOON NETWORK
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/1163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (ʜᴅ)" tvg-logo="https://i.ibb.co/TmYhmSz/cartoon-network.png" group-title="INFANTIL",CARTOON NETWORK (ʜᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/15804.m3u8
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="CBEEBIES " tvg-logo="https://i.ibb.co/WpmS2bL/cbeebies.png" group-title="INFANTIL",CBEEBIES 
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/52944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS (ꜰʜᴅ)" tvg-logo="https://i.ibb.co/jzwCHBR/discovery-kids.png" group-title="INFANTIL",DISCOVERY KIDS (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS ⁽ᵃ⁾" tvg-logo="https://i.ibb.co/jzwCHBR/discovery-kids.png" group-title="INFANTIL",DISCOVERY KIDS ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/17719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANELL (ꜱᴅ)" tvg-logo="https://i.ibb.co/KzyCfsn/disney-channel.png" group-title="INFANTIL",DISNEY CHANELL (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/15604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/KzyCfsn/disney-channel.png" group-title="INFANTIL",DISNEY CHANNEL
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/33727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (ꜱᴅ)" tvg-logo="https://i.ibb.co/dDQp6nt/disney-JR.png" group-title="INFANTIL",DISNEY JUNIOR (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR*" tvg-logo="https://i.ibb.co/dDQp6nt/disney-JR.png" group-title="INFANTIL",DISNEY JUNIOR*
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/33724.m3u8
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="DISNEY PRINCESAS" tvg-logo="https://i.ibb.co/qx6wmbW/princess.png" group-title="INFANTIL",DISNEY PRINCESAS
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/41864.m3u8
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="DISNEY PRINCESAS*" tvg-logo="https://i.ibb.co/qx6wmbW/princess.png" group-title="INFANTIL",DISNEY PRINCESAS*
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/42424.m3u8
+#EXTINF:-1 tvg-id="disneyxd.cl" tvg-name="DISNEY XD (ʜᴅ)" tvg-logo="https://i.ibb.co/9qQ2tvG/disney-XD.png" group-title="INFANTIL",DISNEY XD (ʜᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/9qQ2tvG/disney-XD.png" group-title="INFANTIL",DISNEY XD
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/33725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="https://i.ibb.co/QCPQLqM/natgeo-kids.png" group-title="INFANTIL",NATGEO KIDS
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/725.m3u8
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="NATGEO KIDS (ʜᴅ)" tvg-logo="https://i.ibb.co/QCPQLqM/natgeo-kids.png" group-title="INFANTIL",NATGEO KIDS (ʜᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/42426.m3u8
+#EXTINF:-1 tvg-id="nick.co" tvg-name="NICK (ꜱᴅ)" tvg-logo="https://i.ibb.co/SVrdGcV/nick.png" group-title="INFANTIL",NICK (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/42430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 (ʜᴅ)" tvg-logo="https://i.ibb.co/wRXjw0Z/nick2.png" group-title="INFANTIL",NICK 2 (ʜᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/5417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="https://i.ibb.co/wRXjw0Z/nick2.png" group-title="INFANTIL",NICK 2
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/42427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR (ꜱᴅ)" tvg-logo="https://i.ibb.co/QkNCnKR/nick-JR.png" group-title="INFANTIL",NICK JR (ꜱᴅ)
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/DYjnQXs/nickealodean.png" group-title="INFANTIL",NICKELODEON
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://i.ibb.co/pPLPykx/nicktoons.png" group-title="INFANTIL",NICKTOONS
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/5416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS*" tvg-logo="https://i.ibb.co/pPLPykx/nicktoons.png" group-title="INFANTIL",NICKTOONS*
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/33728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEENNICK" tvg-logo="https://i.ibb.co/mhpdZC7/teennick.png" group-title="INFANTIL",TEENNICK
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/61472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/TMVHWH3/tooncast.png" group-title="INFANTIL",TOONCAST
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST*" tvg-logo="https://i.ibb.co/TMVHWH3/tooncast.png" group-title="INFANTIL",TOONCAST*
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/42428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://i.ibb.co/4fQRQN1/zoomoo.png" group-title="INFANTIL",ZOOMOO
+http://tv.iptv5latino.cl:8080/live/VENTAWAY0122/AZY5yFXiDl/27184.m3u8
